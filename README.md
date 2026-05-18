@@ -268,16 +268,6 @@ Panel principal del usuario autenticado con:
 - Módulos de Ahorros, Créditos, Transferencias y Pagos
 - Perfil del usuario con datos reales de Supabase
 
----
 
-## 🎓 Criterios de Evaluación Cubiertos
-
-| Criterio | Descripción | Estado |
-|---------|-------------|--------|
-| C1 | Página Home con branding y botón de acceso | ✅ |
-| C2 | Interfaz de Banca por Internet | ✅ |
-| C3 | Formulario de Login conectado a base de datos | ✅ |
-| C4 | Validación: mensaje de éxito o error | ✅ |
-| C5 | Dashboard con dato del usuario autenticado | ✅ |
 
 
