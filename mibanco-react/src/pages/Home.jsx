@@ -23,7 +23,7 @@ export default function Home() {
           <span style={{ cursor: 'pointer', opacity: 0.9 }}>Ahorros</span>
           <span style={{ cursor: 'pointer', opacity: 0.9 }}>Servicios</span>
           <button
-            onClick={() => navigate('/login')}
+            onClick={() => navigate('/banca')}
             style={{
               background: '#f5c518', color: '#1a5c2e', border: 'none',
               padding: '0.6rem 1.4rem', borderRadius: '6px',
@@ -49,7 +49,7 @@ export default function Home() {
         </p>
         <div style={{ display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
           <button
-            onClick={() => navigate('/login')}
+            onClick={() => navigate('/banca')}
             style={{
               background: '#f5c518', color: '#1a5c2e', border: 'none',
               padding: '0.9rem 2rem', borderRadius: '8px',
@@ -135,7 +135,7 @@ export default function Home() {
           Zona segura con cifrado SSL de 256 bits.
         </p>
         <button
-          onClick={() => navigate('/login')}
+          onClick={() => navigate('/banca')}
           style={{
             background: '#f5c518', color: '#1a5c2e', border: 'none',
             padding: '1rem 2.5rem', borderRadius: '8px',

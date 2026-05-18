@@ -4,7 +4,7 @@ const API = 'http://localhost:3000/api/auth';
 
 export async function login(username, password) {
   const res = await axios.post(`${API}/login`, { username, password });
-  return res.data;
+  return res.data; // { token, user }
 }
 
 export function guardarSesion(token, usuario) {
