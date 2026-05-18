@@ -280,16 +280,4 @@ Panel principal del usuario autenticado con:
 | C4 | Validación: mensaje de éxito o error | ✅ |
 | C5 | Dashboard con dato del usuario autenticado | ✅ |
 
----
 
-## 👨‍💻 Desarrollo
-
-**Curso:** Desarrollo de Aplicaciones Web  
-**Ciclo:** 2026  
-**Semana:** 9  
-
----
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines académicos.
